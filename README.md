@@ -1,97 +1,97 @@
 
-# Título del Proyecto 
+# Title of the project
 # ADroid
 
-ADroid es un programa creado para android donde puedes verificar applicaiones,rootear,etc
+ADroid is a program created for android where you can verify applications, root, etc.
 
-## Comenzando 🚀
+## Beginning 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_These instructions will allow you to obtain a copy of the project in operation on your local machine for development and testing purposes.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+See ** Deployment ** to learn how to deploy the project.
 
 
-### Pre-requisitos 📋
--instalar java
--instalar winrar
--instalar python
--instalar node
+### Prerequisites 📋
+-install java
+-install winrar
+-install python
+-install node
 
-```
-Da un ejemplo
-```
+`` `
+Give an example
+`` `
 
-### Instalación 🔧
+### Installation 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_A series of step-by-step examples that tells you what to execute to have a development environment running_
 
-_Dí cómo será ese paso_
+_How will that step be?
 
-```
-Da un ejemplo
-```
+`` `
+Give an example
+`` `
 
-_Y repite_
+_ And repeat_
 
-```
-hasta finalizar
-```
+`` `
+until final
+`` `
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_ Ends with an example of how to obtain system data or how to use it for a small demo_
 
-## Ejecutando las pruebas ⚙️
+## Running the tests ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Explain how to run the automated tests for this system_
 
-### Analice las pruebas end-to-end 🔩
+### Analyze the end-to-end tests 🔩
 
-_Explica que verifican estas pruebas y por qué_
+_Explain that they verify these tests and why_
 
-```
-Da un ejemplo
-```
+`` `
+Give an example
+`` `
 
-### Y las pruebas de estilo de codificación ⌨️
+### And the coding style tests ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+_Explain that they verify these tests and why_
 
-```
-Da un ejemplo
-```
+`` `
+Give an example
+`` `
 
 ## Deployment 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Add additional notes on how to do deploy_
 
-## Construido con 🛠️
+## Built with 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Menciona the tools that you used to create your project_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven] (https://maven.apache.org/) - Dependency Manager
+* [ROME] (https://rometools.github.io/rome/) - Used to generate RSS
 
-## Contribuyendo 🖇️
+## Contributing 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/ADroid) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Please read the [CONTRIBUTING.md] (https://github.com/Pericena/ADroid) for details of our code of conduct, and the process to send us pull requests.
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+We use [SemVer] (http://semver.org/) for versioning. For all available versions, look at the [tags in this repository] (https://github.com/tu/proyecto/tags).
 
-## Autor ✒️
-* **Luishiño Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
+## Author ✒️
+* ** Luishiño Pericena Choque ** - * creator of the program * - [Pericena] (https://github.com/Pericena)
 
-## Licencia 📄
+## License 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+This project is under the License (Your License) - see the file [LICENSE.md] (LICENSE.md) for details
 
-## Expresiones de Gratitud 🎁
+## Expressions of Gratitude 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Da las gracias públicamente 🤓.
+* Tell others about this project 📢
+* Thanks publicly 🤓.
 * etc.
 
 
-:pencil:
-⌨️ por [Pericena](https://github.com/Pericena) 😊
+: pencil:
+⌨️ by [Pericena] (https://github.com/Pericena) 😊
